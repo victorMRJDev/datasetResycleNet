@@ -26,4 +26,4 @@ El dataset con el que se trabajará está conformado por 1474 imágenes de resid
 
 Se elaboró un algoritmo para convertir las imágenes a tres canales de color (RGB) para evitar la variedad en estos, posteriormente con otro algoritmo se generó un archivo csv donde se almacenó la ruta de la imagen denominada “Waste”, con la etiqueta “Classification”, nombre “imagen” y un peso de 196 KB
 
-[Muestras del conjunto de datos creado para la evaluación de la red propuesta: a) residuos orgánicos, b) residuos inorgánicos](./images/dataset.png)
+![Muestras del conjunto de datos creado para la evaluación de la red propuesta: a) residuos orgánicos, b) residuos inorgánicos](./images/dataset.png)
